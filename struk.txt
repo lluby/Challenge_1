@@ -1,0 +1,24 @@
+======================================
+BinarFud
+======================================
+
+
+======================================
+Terima kasih sudah memesan 
+di BinarFud
+======================================
+
+Dibawah ini adalah pesanan Anda 
+Nasi Goreng  	2	 15.000
+--------------------------------
+Total Harga  		30000Mie Goreng   	1	 13.000
+--------------------------------
+Total Harga  		43000
+
+Pembayaran : BinarCash 
+
+
+=================================
+Simpan Struk ini sebagai 
+bukti pembayaran
+=================================
